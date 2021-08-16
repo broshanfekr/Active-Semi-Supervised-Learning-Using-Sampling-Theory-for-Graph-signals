@@ -1,1 +1,3 @@
-# Active_Semi-Supervised_Learning_Using_Sampling_Theory_for_Graph_signals
+# Active Semi-Supervised Learning Using Sampling Theory for Graph signals
+
+This is a python implementation for paper [Active Semi-Supervised Learning Using Sampling Theory for Graph signals](https://arxiv.org/abs/1405.4324) 
